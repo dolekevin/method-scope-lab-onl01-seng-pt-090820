@@ -1,7 +1,5 @@
 def catch_phrase
   puts phrase
-end
-
 require "spec_helper"
 describe "#catch_phrase" do
   it "puts out a catch phrase" do
